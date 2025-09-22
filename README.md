@@ -32,4 +32,3 @@
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/syazwanamin/)
-- **Email:** zarulpolo@gmail.com
