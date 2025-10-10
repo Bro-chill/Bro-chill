@@ -10,6 +10,7 @@
 -  3+ years experience in Equity Trading.
 -  Degree holder in Mechatronic Engineering (UniKL MFI).
 -  Gamuda AI Academy Alumni (Cohort 3).
+-  Jomhack Python Trainer
 
 ## 🔍 Languages & Tools
 
